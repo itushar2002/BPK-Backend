@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Tranquil Terrace Tranquility Haven",
+    "description": "This villa is a stunning masterpiece of luxury and art, offering 2000 sqft of refined living space. It includes 2 spacious bedrooms, 2 bathrooms, and a dedicated parking spot. Enjoy modern interiors that blend comfort with elegance. Located on Lake View Road, the villa offers serene views and peaceful surroundings.",
+    "price": 3240,
+    "address": "Lake View Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "image": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Oceanview Oasis Serenity Escape",
+    "description": "This villa is a stunning masterpiece of luxury and art, featuring 2 bedrooms and 2 bathrooms within 2000 sqft. Situated on Ayodhya Bypass Road, it offers spacious interiors and modern amenities. Perfect for those who seek a blend of comfort and breathtaking ocean views from their home.",
+    "price": 4240,
+    "address": "Ayodhya Bypass Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "image": [
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800",
+      "https://images.unsplash.com/photo-1600302065429-c6e82c2220b0?w=800",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2940"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Sunrise Sanctuary Solace Retreat",
+    "description": "This beautiful villa offers 2000 sqft with 2 bedrooms and 2 bathrooms. Located on Hoshangabad Road, it features modern decor and spacious rooms with natural light. Ideal for small families or couples wanting a serene yet stylish home in Bhopal.",
+    "price": 3240,
+    "address": "Hoshangabad Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2930",
+      "https://plus.unsplash.com/premium_photo-1709684162107-360d24a6079f?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Urban Elegance Sophistication Haven",
+    "description": "Offering 2000 sqft of luxury living, this villa on Kolar Road boasts 2 bedrooms and 2 bathrooms. The modern design combines elegance with functionality. Residents enjoy a comfortable lifestyle in a prime urban location with convenient parking and beautiful surroundings.",
+    "price": 6240,
+    "address": "Kolar Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2930",
+      "https://images.unsplash.com/photo-1600302065429-c6e82c2220b0?w=800",
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Rustic Retreat Charm Cottage",
+    "description": "This 2000 sqft villa located in MP Nagar Zone II offers 2 bedrooms and 2 bathrooms. The rustic charm combined with modern amenities creates a cozy atmosphere. Perfect for those who love countryside aesthetics within city limits, complete with parking for convenience.",
+    "price": 7050,
+    "address": "MP Nagar Zone II",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Garden Grove Oasis Retreat Haven",
+    "description": "Nestled on Chuna Bhatti Main Road, this villa provides 2000 sqft of comfortable living space with 2 bedrooms and 2 bathrooms. Enjoy a lush garden view from the spacious rooms. The property includes a parking space and modern interiors, ideal for a peaceful lifestyle.",
+    "price": 2000,
+    "address": "Chuna Bhatti Main Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1709684162107-360d24a6079f?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2930"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2000 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Serene Heights Luxe Villa",
+    "description": "This spacious 3 BHK villa offers 2200 sqft of elegant living space. Featuring well-lit rooms, a modern kitchen, and two large bathrooms. The home is designed for families who appreciate both style and comfort. Located on New Market Road, the villa boasts a private terrace with city views. Parking for two vehicles ensures convenience for residents.",
+    "price": 5300,
+    "address": "New Market Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkings": 2,
+      "area": "2200 sqft"
+    },
+    "userEmail": "userOne@gmail.com"
+  },
+  {
+    "title": "Lakeside Luxury Garden Home",
+    "description": "Enjoy this 2 BHK, 1900 sqft villa with expansive gardens and lakeside views. Located near Bhadbhada, the villa features an open-plan living area and premium bathroom fittings. Large windows ensure plenty of natural light, enhancing the warm ambiance. Perfect for nature lovers seeking a tranquil retreat close to the city.",
+    "price": 4200,
+    "address": "Bhadbhada Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2930",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2940",
+      "https://plus.unsplash.com/premium_photo-1709684162107-360d24a6079f?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "1900 sqft"
+    },
+    "userEmail": "userTwo@gmail.com"
+  },
+  {
+    "title": "Cityscape Modern Family Villa",
+    "description": "Located on Arera Hills, this 3 BHK villa spans 2400 sqft with modern interiors and smart home features. The bedrooms are spacious with attached baths, perfect for a growing family. The villa includes a private balcony offering panoramic city views. Parking space for two cars and a landscaped garden complete the package.",
+    "price": 6150,
+    "address": "Arera Hills",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800",
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "parkings": 2,
+      "area": "2400 sqft"
+    },
+    "userEmail": "userThree@gmail.com"
+  },
+  {
+    "title": "Vintage Charm Heritage Villa",
+    "description": "Step into timeless elegance with this 2 BHK heritage villa covering 2100 sqft. Featuring classic wooden flooring and ornate detailing, it offers a unique blend of tradition and modern amenities. Located on M.P. Nagar Main Road, the villa includes a cozy courtyard and parking for one car. Ideal for those who appreciate classic architecture.",
+    "price": 4800,
+    "address": "MP Nagar Main Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1600302065429-c6e82c2220b0?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://plus.unsplash.com/premium_photo-1709684162107-360d24a6079f?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1,
+      "area": "2100 sqft"
+    },
+    "userEmail": "userThree@gmail.com"
+  },
+  {
+    "title": "Contemporary Comfort Villa",
+    "description": "A beautiful 1 BHK villa of 1500 sqft featuring modern design and energy-efficient fittings. Situated on Raisen Road, this home is perfect for singles or couples. Enjoy spacious rooms, a stylish kitchen, and a balcony with garden views. One dedicated parking spot adds to the convenience. Bright and airy, the villa feels warm and inviting year-round.",
+    "price": 2900,
+    "address": "Raisen Road",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2930",
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "parkings": 1,
+      "area": "1500 sqft"
+    },
+    "userEmail": "userFour@gmail.com"
+  },
+  {
+    "title": "Hillside Panorama Luxury Villa",
+    "description": "Perched on the hills of Bairagarh, this expansive 4 BHK villa boasts 3000 sqft of luxurious living space. With four bedrooms and three bathrooms, it caters perfectly to large families. The villa features a private pool, garden, and multi-car parking. Floor-to-ceiling windows offer breathtaking views of Bhopal's skyline and surrounding nature.",
+    "price": 8900,
+    "address": "Bairagarh Hills",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "country": "India",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2940",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "https://plus.unsplash.com/premium_photo-1709684162107-360d24a6079f?w=800"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "parkings": 3,
+      "area": "3000 sqft"
+    },
+    "userEmail": "userFour@gmail.com"
+  }
+]

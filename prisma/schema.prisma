@@ -1,0 +1,51 @@
+generator client {
+    provider = "prisma-client-js"
+    // output   = "../src/generated/prisma-client"
+}
+
+datasource db {
+    provider = "mongodb"
+    url      = env("DATABASE_URL")
+}
+
+// Enum for property type
+enum PropertyType {
+    RENTED
+    SELLING
+    COMMERCIAL
+    PLOT
+}
+
+model User {
+    id               String      @id @default(auto()) @map("_id") @db.ObjectId
+    name             String?
+    email            String      @unique
+    bookedVisits     Json        @default("[]")
+    favResidenciesID String[]    @db.ObjectId
+    ownedResidencies Residency[] @relation("Owner")
+    isAdmin          Boolean     @default(false)
+}
+
+model Residency {
+    id            String       @id @default(auto()) @map("_id") @db.ObjectId
+    title         String
+    description   String
+    price         Int
+    address       String
+    city          String
+    state         String
+    country       String
+    images        String[] // multiple image URLs
+    video         String? // video URL (optional)
+    facilities    Json
+    brokerContact String? // ✅ Broker contact number
+    propertyType  PropertyType? // ✅ Enum field for property type
+    owner         User         @relation("Owner", fields: [userId], references: [id])
+    createdAt     DateTime     @default(now())
+    updatedAt     DateTime     @updatedAt
+    userId        String       @db.ObjectId
+    approved      Boolean      @default(false)
+
+    @@unique([address])
+    @@index([city])
+}
